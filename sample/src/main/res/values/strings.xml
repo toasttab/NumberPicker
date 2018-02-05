@@ -10,4 +10,10 @@
     <string name="roboto_medium">sans-serif-medium</string>
 
     <string name="number_picker_formatter">%02d</string>
+
+    <string name="txt_font_color">Font Color</string>
+    <string name="txt_font_size">Font Size</string>
+    <string name="txt_selected_font_color">Selected Font Color</string>
+    <string name="txt_selected_font_size">Selected Font Size</string>
+    <string name="txt_divider_color">Divider Color</string>
 </resources>
